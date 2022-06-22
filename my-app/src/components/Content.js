@@ -14,8 +14,6 @@ export class Content extends Component {
     }
   }
 
- 
-
   componentDidMount() {
     setTimeout(() => {
       this.setState({
