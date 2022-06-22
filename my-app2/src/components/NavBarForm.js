@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import css from "./css/NavBarForm.module.css"
 
-class NavBarForm extends React.Component {
+class NavBarForm extends Component {
 
     constructor(props) {
         super(props);
